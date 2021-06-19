@@ -131,4 +131,3 @@ def bar():
     return 5
 y = foo()
 print(y)
-#1,3,5,10
